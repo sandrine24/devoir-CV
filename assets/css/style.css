@@ -2,7 +2,7 @@
 
 
 @font-face {
-    font-family: "raleway",sans-serif;
+    font-family: "raleway";
     font-style: normal;
     font-weight: 400;
     src: url(../fonts/Raleway-VariableFont_wght.woff)format('truetype');
@@ -129,6 +129,11 @@ div.flex{
 .right-column li:hover{
     border-right: solid 5px#782221;
 
+}
+li{
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-bottom: 10px;
 }
 p{
     text-indent: 50px;
