@@ -40,7 +40,7 @@ h3{   background-color: #dbc2a4;
       padding-top: 10px;
       padding-bottom: 10px;
       text-align: left;
-      margin-right: 20px;
+     
       color: black;
 }
 h2{      
@@ -116,7 +116,7 @@ div.flex{
     
 }
 .right-column h3{
-   border-left: solid 5px #782221;
+   border-left: solid -5px #782221;
    margin-left: 30px; 
    
 }
@@ -124,6 +124,7 @@ div.flex{
     margin-bottom: 20px;
     padding-top: 50px;
     text-align: justify;
+    text-size-adjust: 300px;
     margin-right: 30px;
 }
 .right-column li:hover{
